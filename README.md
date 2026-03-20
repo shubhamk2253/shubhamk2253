@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Khot</h1>
 <h3 align="center">Building KaagazSeva 🇮🇳 | Data Analyst | Full-Stack Developer Turning real-world problems into scalable tech solutions</h3>
 
-<p align="left"> <img src="C:\Users\klebc\Downloads&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamk2253" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamk2253" alt="shubhamk2253" /></a> </p>
 
